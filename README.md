@@ -1,6 +1,6 @@
 # Project3
 
-* Heroku Link: http://tickets-and-games.herokuapp.com/
+* Heroku Link: http://tickets-and-games-mvp.herokuapp.com/
 * To use this repository, please follow the following steps:
 
 # Google OAuth Signup
