@@ -68,4 +68,10 @@
   * Set up the python and react project and maintained it
   * Set up the server sided OAuth to let users log in
   * Fixed various issues as they came up (Bug with leaderboard, default state of profile view, etc)
-
+* Allen Kung
+  * Set up tables for postgresql database
+  * Profile view, transaction history
+  * Sign up, login through username/password, hash and salt passwords
+  * Unfinished work:
+    - Testing sign up
+    - Testing login through username/password
